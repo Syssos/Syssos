@@ -4,4 +4,3 @@ A dedicated innovator, and visionary, with a strong passion for writing both eff
 ## Contributions and Roles
 - [DCRP, DoubleCuppedRP](https://github.com/DoubleCuppedRP): Developer - Design, impliment, update, and monitor game server and users
 - [Advantage Micro Corp](https://github.com/AdvantageMicroCorp): Lead Developer - Designed, and maintain the documentation, and download application used by the computer repair company, found [here](https://advcustomerservice.com/)
-- [SyssosScripts](https://github.com/SyssosScripts): Lead Developer - Design, Build, and support featured scripts
